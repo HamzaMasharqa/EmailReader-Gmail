@@ -9,7 +9,7 @@ public class EmailReader {
 
     public static void main(String[] args) throws NoSuchProviderException, IOException {
         while (true) {
-            receveMail("cotede158@gmail.com", "cotede11223344");
+            receveMail("Email", "Password");  //the password and the email
         }
 
     }
